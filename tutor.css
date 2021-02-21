@@ -1,0 +1,85 @@
+head {
+  background-image: url("https://qchspawprints.com/wp-content/uploads/2021/01/college.jpg");
+}
+h1 {
+  text-transform: uppercase;
+  text-align: center;
+}
+h2 {
+  text-transform: uppercase;
+  border: 1px solid bisque;
+  color: bisque;
+  background-image: url("http://farm9.staticflickr.com/8031/8023402034_1ff3af444f_o.png");
+}
+p {
+  font-size: 20px;
+  color: #040050;
+}
+nav a {
+  display: inline-block;
+  line-height: 45px;
+  height: 45px;
+  margin: 2%;
+  padding-right: 30px;
+  margin: 10px 0 10px 5px;
+  align-items: center;
+  margin-left: 130px;
+  background-color: aliceblue;
+}
+img {
+  width: 800px;
+}
+body {
+  background-image: url("https://brand.central.edu/wp-content/uploads/2020/02/centralSeal-300x300.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+a {
+  text-decoration: none;
+  color: #13332f;
+}
+section {
+  color: #542c2c;
+  width: 100%;
+  font-size: 132%;
+  display: inline-block;
+  background-image: url("https://qchspawprints.com/wp-content/uploads/2021/01/college.jpg");
+}
+.services {
+  text-decoration-color: black;
+}
+h3 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-transform: uppercase;
+  border: 1px solid #8d8481;
+}
+.reference a {
+  border: groove;
+  border-radius: 12px;
+  width: 17%;
+  text-decoration: none;
+  text-align: center;
+  font-size: 25px;
+}
+
+a:hover,
+a:active {
+  background: black;
+  color: white;
+}
+.active {
+  background: white;
+}
+ul {
+  font-size: 20px;
+}
+ol {
+  color: #040050;
+  font-size: 20px;
+}
+.contact_title{
+	background-color: black;
+	color: white;
+	
+}
